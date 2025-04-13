@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Neko Village Store",
+    "logo": "/images/event/neko-logo.png",
+    "coverImage": "/images/event/collab-neko.jpg",
+    "shortDescription": "Pamper Your Skin Today! Glow Inside and Out with Our Exclusive Offer!",
+    "slug": "neko-village-store",
+    "code":"NekoXFundmyWish",
+    "website": "https://nekovillage.com",
+    "offer": "10% off all Neko products exclusively for FundMyWish users.",
+    "terms": "Offer valid until June 1st, 2025. Free shipping applies to orders over $100 within Canada."
+  },
+  {
+    "id": 2,
+    "title": "Somethink Studio",
+    "logo": "/images/event/sthstudio-logo.png",
+    "coverImage": "/images/event/collab-sthstudio.png",
+    "shortDescription": "Capture Your Moments with 5% Off All Packages",
+    "slug": "somethink-studio",
+    "code":"FUNDMYWISH5OFF",
+    "website": "https://somethinkstudiovan.wixsite.com/vancouver",
+    "offer": "5% discount on all photography and videography packages.",
+    "terms": "Offer valid until Feb 1st, 2026. Valid for weddings, engagements, and special events."
+  }
+]

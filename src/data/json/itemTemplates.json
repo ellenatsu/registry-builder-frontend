@@ -1,0 +1,185 @@
+{
+  "wedding": {
+    "priceRanges":[{"label": "Under $500", "value": "under500"}, {"label": "$500 - $800", "value": "500-800"}, {"label": "$1000", "value": "1000"}, {"label": "$1500", "value": "1500"}, {"label": "$2000", "value": "2000"}, {"label": "$4000+", "value": "4000+"}],
+    "templatesByRange": {
+      "under500": [
+        {
+          "id": "w_u500_1",
+          "name": "Budget-Friendly Essentials",
+          "targetAmount": 394.11,
+          "description": "Essential kitchen tools to kickstart your registry on a budget.",
+          "itemIds": [
+            "e79b39bf-a9df-4612-8bc7-f22fa99b4bd9",
+            "5fd10723-9064-4ad3-adff-ff408868ecae",
+            "a956755a-dd38-42ea-b11a-3618840ca049",
+            "94fb2c5a-0256-4abe-8abd-a8cf9ae04c3f"
+          ]
+        }
+      ],
+      "500-800": [
+        {
+          "id": "w_500_1",
+          "name": "Classic Kitchen Starter",
+          "targetAmount": 549.95,
+          "description": "A curated set of kitchen essentials balancing quality and affordability.",
+          "itemIds": [
+            "f36a1d47-9ee5-4108-b764-c51eeec888bf",
+            "266a5a37-0306-42a4-be9e-b372f9bc337d",
+            "4e5c3cd3-1f9b-4642-b0df-2f60603308a1",
+            "a7fc3c2e-a203-4485-a34e-bc264adf9c1d"
+          ]
+        },
+        {
+          "id": "w_500_2",
+          "name": "Modern Multi-Task Kitchen",
+          "targetAmount": 678.92,
+          "description": "A versatile collection featuring advanced cooking and cleaning gadgets.",
+          "itemIds": [
+            "4eecffa4-ce07-4ef2-8165-e9018deb7151",
+            "62c4274c-0b13-41c3-9d18-53d497feec31",
+            "7a334560-52bc-49d3-a5ac-765f9121f1a2",
+            "d9a3d0d1-cbdd-4dcb-8664-f4e6bccd364f",
+            "44f9ef40-eadc-4068-8d0a-e80995634274"
+          ]
+        }
+      ],
+      "1000": [
+        {
+          "id": "w_1000_1",
+          "name": "High-Tech Home Essentials",
+          "targetAmount": 992.08,
+          "description": "Modern appliances to elevate your home.",
+          "itemIds": [
+            "3d3ef8c4-f39b-4e24-bf3b-c33e1675a1b6",
+            "86f126cd-c574-4e60-a43a-dc14d16c6c9e"
+          ]
+        },
+        {
+          "id": "w_1000_2",
+          "name": "Smart & Powerful Collection",
+          "targetAmount": 1036.94,
+          "description": "A dynamic mix of innovative appliances for the modern home.",
+          "itemIds": [
+            "3d3ef8c4-f39b-4e24-bf3b-c33e1675a1b6",
+            "afa5009b-239c-451c-811e-3343ada57aec",
+            "62c4274c-0b13-41c3-9d18-53d497feec31"
+          ]
+        }
+      ],
+      "1500": [
+        {
+          "id": "w_1500_1",
+          "name": "Deluxe Home Collection A",
+          "targetAmount": 1465.94,
+          "description": "A premium selection for a luxurious home experience.",
+          "itemIds": [
+            "3d3ef8c4-f39b-4e24-bf3b-c33e1675a1b6",
+            "86f126cd-c574-4e60-a43a-dc14d16c6c9e",
+            "afa5009b-239c-451c-811e-3343ada57aec",
+            "4e5c3cd3-1f9b-4642-b0df-2f60603308a1",
+            "94fb2c5a-0256-4abe-8abd-a8cf9ae04c3f"
+          ]
+        },
+        {
+          "id": "w_1500_2",
+          "name": "Deluxe Home Collection B",
+          "targetAmount": 1562.00,
+          "description": "A refined mix of culinary and home essentials for an elegant registry.",
+          "itemIds": [
+            "f36a1d47-9ee5-4108-b764-c51eeec888bf",
+            "df7071f6-87a6-4eb7-ba29-8af71f3ec89d",
+            "62c4274c-0b13-41c3-9d18-53d497feec31",
+            "d9a3d0d1-cbdd-4dcb-8664-f4e6bccd364f",
+            "266a5a37-0306-42a4-be9e-b372f9bc337d",
+            "4e5c3cd3-1f9b-4642-b0df-2f60603308a1",
+            "6a086a4f-f60e-48b6-b871-181338b92f31",
+            "94fb2c5a-0256-4abe-8abd-a8cf9ae04c3f",
+            "5fd10723-9064-4ad3-adff-ff408868ecae",
+            "44f9ef40-eadc-4068-8d0a-e80995634274"
+          ]
+        }
+      ],
+      "2000": [
+        {
+          "id": "w_2000_1",
+          "name": "Ultimate Wedding Registry",
+          "targetAmount": 1991.89,
+          "description": "A comprehensive selection for a complete home transformation.",
+          "itemIds": [
+            "3d3ef8c4-f39b-4e24-bf3b-c33e1675a1b6",
+            "86f126cd-c574-4e60-a43a-dc14d16c6c9e",
+            "afa5009b-239c-451c-811e-3343ada57aec",
+            "f36a1d47-9ee5-4108-b764-c51eeec888bf",
+            "4e5c3cd3-1f9b-4642-b0df-2f60603308a1",
+            "62c4274c-0b13-41c3-9d18-53d497feec31"
+          ]
+        }
+      ],
+      "4000+": [
+        {
+          "id": "w_4000_1",
+          "name": "Travel & Adventure Registry",
+          "targetAmount": 4000,
+          "description": "A travel-themed registry for couples with wanderlust.",
+          "itemIds": [
+            "e3683f85-fc7c-4f68-894a-9ea3c7debbbb"
+          ]
+        }
+      ]
+    }
+  },
+  "baby": {
+    "priceRanges":[{"label": "Under $500", "value": "under500"}, {"label": "$500 - $1000", "value": "500-1000"}],
+    "templatesByRange": {
+      "under500": [
+        {
+          "id": "b_u500_1",
+          "name": "Essential Baby Registry",
+          "targetAmount": 269.74,
+          "description": "A curated set of essential items for your newborn's early needs.",
+          "itemIds": [
+            "b4ba8779-22a6-46d6-9f6b-7b9d136634cf",
+            "f550b1bd-3464-45a8-a614-eeb288130d24",
+            "3baa6a21-95a6-4e8b-8eb4-eaf624314b3b",
+            "e8f08b74-8a35-4458-a081-3bb6947e9074",
+            "33fcaffe-844c-4c57-b4a6-c6eebcdcb3d2",
+            "ddb491c6-13b5-44df-a25f-c9049a55b665",
+            "67760e73-58da-4d49-b0cc-c10ee5bee1f5",
+            "6e7b942f-65bd-461d-a9d3-a2d4036394b2"
+          ]
+        }
+      ],
+      "500-1000": [
+        {
+          "id": "b_500_1",
+          "name": "Deluxe Baby Essentials",
+          "targetAmount": 700.24,
+          "description": "A comprehensive selection of high-quality, practical items for your baby.",
+          "itemIds": [
+            "9f30aeef-daa3-45a8-9508-c3acf398c512",
+            "0e410c88-3f2f-4968-a333-e6450bf9b153",
+            "dc47ce18-6f0c-4b14-adf8-09deb5de08ad",
+            "85de80c6-e2ce-464b-be42-7e1f2c0bb9a4",
+            "ab6d6151-8851-4dcd-b974-cf23bd1dae9e",
+            "40abc323-d1f1-4ded-8deb-5b1c320bdcb7",
+            "d81ccf2f-f044-4a70-b9c2-02dc0007fd74"
+          ]
+        },
+        {
+          "id": "b_500_2",
+          "name": "Modern Baby Registry",
+          "targetAmount": 671.27,
+          "description": "A balanced selection of essential items for your baby's comfort and care.",
+          "itemIds": [
+            "0e410c88-3f2f-4968-a333-e6450bf9b153",
+            "f550b1bd-3464-45a8-a614-eeb288130d24",
+            "dc47ce18-6f0c-4b14-adf8-09deb5de08ad",
+            "e8f08b74-8a35-4458-a081-3bb6947e9074",
+            "ddb491c6-13b5-44df-a25f-c9049a55b665",
+            "d81ccf2f-f044-4a70-b9c2-02dc0007fd74"
+          ]
+        }
+      ]
+    }
+  }
+}

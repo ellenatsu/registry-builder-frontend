@@ -1,0 +1,65 @@
+[
+  {
+    "id": "7",
+    "title": "The Struggle of Finding the Perfect Gift",
+    "coverImage": "/images/blog/blog-7-cover.png",
+    "abstract": "Discover how FundmyWish helps take the stress out of gift-giving by making it easy to give and receive meaningful presents.",
+    "author": "Kenny - FundmyWish Founder",
+    "date": "2025-01-11",
+    "category": "Insights"
+  },
+  {
+    "id": "1",
+    "title": "Why FundmyWish Makes Asking for Help Easier and More Comfortable",
+    "coverImage": "/images/blog/blog-1-cover.png",
+    "abstract": "Discover how FundmyWish simplifies the process of asking for help, creating a dignified and stress-free experience for everyone.",
+    "author": "Team FundmyWish",
+    "date": "2025-01-06",
+    "category": "Insights"
+  },
+  {
+    "id": "2",
+    "title": "How to Effectively Share Your Wishlist and Attract Supporters",
+    "coverImage": "/images/blog/blog-2-cover.png",
+    "abstract": "Learn practical tips to boost your wishlist's visibilitys.",
+    "author": "Team FundmyWish",
+    "date": "2025-01-07",
+    "category": "Tips"
+  },
+  {
+    "id": "3",
+    "title": "Our Partnership with Neko Village Store: Special 10% Discount for You",
+    "coverImage": "/images/blog/blog-3-cover.png",
+    "abstract": "Explore the benefits of our collaboration with Neko Village Store.",
+    "author": "Team FundmyWish",
+    "date": "2025-01-08",
+    "category": "Collab"
+  },
+  {
+    "id": "4",
+    "title": "Holiday Gift Ideas That Give Back: The Power of Thoughtful Giving",
+    "coverImage": "/images/blog/blog-4-cover.png",
+    "abstract": "Find inspiration for holiday gifts that not only delight your loved ones but also support meaningful causes.",
+    "author": "Team FundmyWish",
+    "date": "2025-01-09",
+    "category": "Tips"
+  },
+  {
+    "id": "5",
+    "title": "Success Stories: How FundmyWish Changed Lives",
+    "coverImage": "/images/blog/blog-5-cover.png",
+    "abstract": "Be inspired by real-life stories of individuals who achieved their dreams with the help of FundmyWish.",
+    "author": "Team FundmyWish",
+    "date": "2025-01-10",
+    "category": "Insights"
+  },
+  {
+    "id": "6",
+    "title": "Fundraising Trends for 2025: What You Need to Know",
+    "coverImage": "/images/blog/blog-6-cover.png",
+    "abstract": "Stay ahead in the world of fundraising with insights into the latest trends and strategies for 2025.",
+    "author": "Team FundmyWish",
+    "date": "2025-01-11",
+    "category": "Insights"
+  }
+]

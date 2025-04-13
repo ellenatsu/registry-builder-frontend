@@ -1,0 +1,59 @@
+[
+    {
+      "category": "General Questions",
+      "questions": [
+        {
+          "question": "What is FundmyWish?",
+          "answer": "FundmyWish is a heartfelt platform where asking for help feels natural, not awkward. It empowers you to share your wishlist and connect with friends, family, or compassionate strangers who want to make a difference. We’re here to create a safe, supportive space where kindness meets dignity, making it easy to give and receive help."
+        },
+        {
+          "question": "Who can use FundmyWish?",
+          "answer": "Anyone in need of support or looking to help others can use the platform. Whether you're fundraising for personal needs, a gift, or a cause, FundmyWish is here to connect you with supporters."
+        },
+        {
+          "question": "Is FundmyWish free to use?",
+          "answer": "Yes, signing up and creating a wishlist is free. However, small transaction fees may apply to cover payment processing costs."
+        }
+      ]
+    },
+    {
+      "category": "For Wish Creators",
+      "questions": [
+        {
+          "question": "How do I create a wishlist?",
+          "answer": "Simply sign up, log into your account, and click on the 'Create' button. Add items, provide details, and share your wishlist with friends, family, or the public."
+        },
+        {
+          "question": "Who can see my wishlist?",
+          "answer": "You can choose your visibility settings when creating a wishlist. It can be shared privately with select individuals or publicly to reach a broader audience."
+        },
+        {
+          "question": "What kind of wishes can I add?",
+          "answer": "You can add items or monetary goals for personal needs, education, medical bills, gifts, or any legitimate cause."
+        }
+      ]
+    },
+    {
+        "category": "Partnerships and Collaborations",
+        "questions": [
+          {
+            "question": "Can my businesses partner with FundmyWish?",
+            "answer": "Absolutely! We welcome partnerships with businesses or organizations looking to make a difference. Contact us at support@ovko.org for more details."
+          },
+          {
+            "question":"What is the collaboration with Neko Village Store?",
+            "answer":"We partner with Neko Village Store to offer exclusive wishlist items and discounts for wish creators and contributors."
+          }  
+        ]
+    },
+    {
+        "category":"Other Questions",
+        "questions":[
+            {
+                "question":"What if my wishlist isn’t fulfilled?",
+                "answer":"If your wishlist doesn’t reach its goal, you will still receive any partial contributions made. You can also extend or adjust your wishlist as needed."
+            }
+        ]
+    }
+  ]
+  
